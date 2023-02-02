@@ -2,7 +2,7 @@
 
 <!--
 **sumanthreddy76/sumanthreddy76** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+-->
 Here are some ideas to get you started:
 
 - 🔭 I’m currently studying 
@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me:via outlook S557857@nwmissouri.edu
 - 😄 Pronouns:he/him
 - ⚡ Fun fact:always welcome.
--->
+
