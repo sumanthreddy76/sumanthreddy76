@@ -12,5 +12,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...My career goals
 - 📫 How to reach me:via outlook S557857@nwmissouri.edu
 - 😄 Pronouns:he/him
-- ⚡ Fun fact:always welcome
+- ⚡ Fun fact:always welcome.
 -->
